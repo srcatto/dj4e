@@ -44,7 +44,7 @@ the following commands:
     git commit -m "first commit" 
     git remote add origin https://github.com/--your-github-acct--/django_projects.git
     git push -u origin main
-    (enter id and password for git)
+    (enter id and Personal access token for git)
 
 Go to 
 
